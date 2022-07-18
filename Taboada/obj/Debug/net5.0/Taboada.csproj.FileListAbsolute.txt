@@ -1,0 +1,16 @@
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\obj\Debug\net5.0\Taboada.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\obj\Debug\net5.0\Taboada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\obj\Debug\net5.0\Taboada.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\obj\Debug\net5.0\Taboada.AssemblyInfo.cs
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\obj\Debug\net5.0\Taboada.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\bin\Debug\net5.0\Taboada.exe
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\bin\Debug\net5.0\Taboada.deps.json
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\bin\Debug\net5.0\Taboada.runtimeconfig.json
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\bin\Debug\net5.0\Taboada.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\bin\Debug\net5.0\Taboada.dll
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\bin\Debug\net5.0\Taboada.pdb
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\obj\Debug\net5.0\Taboada.dll
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\obj\Debug\net5.0\refint\Taboada.dll
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\obj\Debug\net5.0\Taboada.pdb
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\obj\Debug\net5.0\Taboada.genruntimeconfig.cache
+C:\Users\Usuário\Documents\Projeto_IMC\Taboada\Taboada\obj\Debug\net5.0\ref\Taboada.dll
